@@ -1,0 +1,15 @@
+name: OreGuardians
+version: 1.2
+description: Mining specified ores will spawn mobs.
+api-version: 1.15
+load: STARTUP
+author: RandomPersson
+authors: []
+website: https://discord.gg/RmDbKqq
+
+main: pl.org.mensa.rp.mc.OreGuardians.OreGuardiansPlugin
+database: false
+depend: []
+prefix: 
+softdepend: []
+loadbefore: []
